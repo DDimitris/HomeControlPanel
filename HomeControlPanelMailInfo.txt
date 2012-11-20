@@ -1,0 +1,6 @@
+
+<your_email>
+<your_pass>
+<your_email>
+<alternative_email>
+Arduino Alert!!

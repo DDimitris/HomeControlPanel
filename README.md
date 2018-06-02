@@ -14,6 +14,6 @@ don't be judgemental :P The only thing that i have changed is the structure of t
 the README file.
 
 
-This is a screen shot of the provided GUI:
+This is a screenshot of the provided GUI:
 
 ![alt text](https://github.com/DDimitris/Home-Control-Panel/blob/master/screen_shot.png)
